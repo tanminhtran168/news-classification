@@ -6,5 +6,5 @@ If you can't view ipynb file in GitHub, using https://nbviewer.jupyter.org/ inst
 # Heat Map for Confusion matrix
 ![](images/heat-map-confusion-matrix.jpg)
 
-# Visualize topic's vocabulary with Word Cloud
+# Visualize "Cuộc sống đó đây" topic's vocabulary with Word Cloud
 ![](images/vocabulary.jpg)
